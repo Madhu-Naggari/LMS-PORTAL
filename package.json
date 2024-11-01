@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@heroicons/react": "^1.0.6",
+    "code": "^5.2.4",
+    "codemirror": "^6.0.1",
+    "mirror": "^0.3.3",
+    "qrcode.react": "^4.1.0"
+  }
+}
